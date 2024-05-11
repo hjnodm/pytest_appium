@@ -2,10 +2,10 @@ pytest and appium for testing Baidu Translate API and a bookkeeping APP.
 
 Requirements：
 
-·Java环境jdk，配置环境变量（jdk1.8）
+·Java jdk1.8，Configurer JAVA_HOME
 
-·Android SDK，配置环境变量
+·Android SDK，Configurer environment
 
-·APPium（Appium-Server-GUI-windows和Appium-Inspector-windows）
+·APPium（Appium-Server-GUI-windows and Appium-Inspector-windows）both needed
 
-·相应语言框架的库或包（如python中的request库，在之前的一次使用过程中，未安装request库，也没有任何的报错信息，之后经过推断APPium的返回值进行查找到了原因。）
+·The library or package of the corresponding language framework (such as the request library in Python was not installed during a previous use, and there was no error message. Afterwards, the reason was found by inferring the return value of APPium.）
